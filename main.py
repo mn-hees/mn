@@ -13,5 +13,3 @@ class Library_customer:
         self.title = title
 
 
-    def
-
